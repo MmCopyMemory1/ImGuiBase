@@ -1,0 +1,31 @@
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui Base.exe
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui Base.deps.json
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui Base.runtimeconfig.json
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui Base.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui Base.pdb
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ClickableTransparentOverlay.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\ImGui.NET.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\SharpGen.Runtime.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\Vortice.D3DCompiler.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\Vortice.Direct3D11.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\Vortice.DirectX.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\Vortice.DXGI.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\Vortice.Mathematics.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\bin\Debug\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.csproj.AssemblyReference.cache
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.AssemblyInfoInputs.cache
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.AssemblyInfo.cs
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.csproj.CoreCompileInputs.cache
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.csproj.Up2Date
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\refint\ImGui Base.dll
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.pdb
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ImGui Base.genruntimeconfig.cache
+C:\Users\Tammy&Chad\source\repos\ImGui Base\ImGui Base\obj\Debug\net8.0\ref\ImGui Base.dll
