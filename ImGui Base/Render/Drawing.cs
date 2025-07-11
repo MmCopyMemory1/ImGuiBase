@@ -8,7 +8,6 @@ namespace ImGuiNotify
     {
         public static void DrawNotify(Vector2 position, Vector2 size, Color color, string title, string message)
         {
-            // Convert System.Drawing.Color to Vector4 for ImGui
             Vector4 imguiColor = new Vector4(color.R / 255f, color.G / 255f, color.B / 255f, color.A / 255f);
 
             ImGui.SetNextWindowPos(position, ImGuiCond.Always);
